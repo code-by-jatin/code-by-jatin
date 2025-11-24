@@ -42,14 +42,14 @@
 ### 🔐 Auth API  
 Production-ready authentication system  
 ⭐ Node.js | Express | MongoDB | JWT  
-🔗 https://github.com/YOUR_USERNAME/auth-api
+🔗 https://github.com/code-by-jatin/auth-api
 
 ### 📝 Task Manager API  
 CRUD • Filters • Pagination  
 🔗 https://github.com/YOUR_USERNAME/task-manager-api
 
 ### 📁User-Management API and UI  
-AWS/Firebase image & file uploads  
+CRUD • Filters • Pagination and Searching
 🔗 https://github.com/code-by-jatin/user-management
 ### 🛒 NestJS E-Commerce API  
 Products • Orders • Users • Auth  
