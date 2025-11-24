@@ -48,10 +48,9 @@ Production-ready authentication system
 CRUD • Filters • Pagination  
 🔗 https://github.com/YOUR_USERNAME/task-manager-api
 
-### 📁 File Upload API  
+### 📁User-Management API and UI  
 AWS/Firebase image & file uploads  
-🔗 https://github.com/YOUR_USERNAME/file-upload-api
-
+🔗 https://github.com/code-by-jatin/user-management
 ### 🛒 NestJS E-Commerce API  
 Products • Orders • Users • Auth  
 🔗 https://github.com/YOUR_USERNAME/nest-ecommerce
