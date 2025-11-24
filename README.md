@@ -49,7 +49,7 @@ CRUD • Filters • Pagination
 🔗 https://github.com/YOUR_USERNAME/task-manager-api
 
 ### 📁User-Management API and UI  
-CRUD • Filters • Pagination and Searching
+CRUD • Filters • Pagination
 🔗 https://github.com/code-by-jatin/user-management
 ### 🛒 NestJS E-Commerce API  
 Products • Orders • Users • Auth  
